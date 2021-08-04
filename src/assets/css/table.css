@@ -1,0 +1,28 @@
+th {
+	
+	width: max-content;
+	block-size: fit-content;
+	block-size: fit-content;
+	white-space: nowrap;
+}
+
+td {
+	width: max-content;
+	block-size: fit-content;
+	white-space: nowrap;
+}
+
+/* Pagination Style */
+/* .pageDiv {
+	width: max-content;
+	block-size: fit-content;
+	white-space: nowrap;
+	width: fit-content;
+}
+
+.col-sm {
+	width: max-content;
+	block-size: fit-content;
+	white-space: nowrap;
+	width: fit-content;
+} */
